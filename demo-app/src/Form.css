@@ -1,0 +1,87 @@
+
+
+.f{
+
+    display:grid;
+    grid-gap:0;
+    width:600px;
+    height:385px;
+    margin:0 auto;
+
+}
+
+#pp{
+    grid-column:1/2;
+    grid-row:1/2;
+
+}
+
+#inp1{
+    grid-column:2/5;
+    grid-row:1/2;
+    margin-top:20px;
+}
+
+#sum{
+    grid-column:1/5;
+
+
+}
+
+.btn{
+
+    grid-column:1/5;
+    width:auto;
+    height:auto;
+    margin:0 auto;
+}
+
+h6{
+
+    padding:0;
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:0;
+}
+.ch1{
+    font-family: 'Montserrat', sans-serif;
+    margin-top:20px;
+
+    font-size:30px;
+
+
+}
+p{
+    text-align: center;
+    padding:0;
+    margin-top:5px;
+    margin-bottom:3px;
+    margin-left:0;
+    margin-right:0;
+}
+.err{
+    grid-column:1/5;
+    margin-top:5px;
+    height:20px;
+
+}
+
+.errName{
+
+    height:19px;
+    margin:0;
+    padding:0;
+    margin-left:10px;
+}
+
+.errTitle{
+
+    height:19px;
+    margin:0;
+    padding:0;
+    margin-left:10px;
+}
+
+
+
